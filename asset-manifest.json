@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mechaiver-chherke/React_Project_NewsApp/static/css/main.7c917100.css",
+    "main.js": "/Mechaiver-chherke/React_Project_NewsApp/static/js/main.ed00f0f2.js",
+    "static/js/787.4c026eef.chunk.js": "/Mechaiver-chherke/React_Project_NewsApp/static/js/787.4c026eef.chunk.js",
+    "index.html": "/Mechaiver-chherke/React_Project_NewsApp/index.html",
+    "main.7c917100.css.map": "/Mechaiver-chherke/React_Project_NewsApp/static/css/main.7c917100.css.map",
+    "main.ed00f0f2.js.map": "/Mechaiver-chherke/React_Project_NewsApp/static/js/main.ed00f0f2.js.map",
+    "787.4c026eef.chunk.js.map": "/Mechaiver-chherke/React_Project_NewsApp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c917100.css",
+    "static/js/main.ed00f0f2.js"
+  ]
+}
